@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "centrifuge": "^2.8.4",
+    "minimist": "^1.2.6",
+    "sockjs-client": "^1.6.0",
+    "ws": "^8.5.0"
+  },
+  "name": "js",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js user=1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
